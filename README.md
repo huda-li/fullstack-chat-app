@@ -22,3 +22,8 @@ Echoes is a modern real-time chat application built using the MERN stack (MongoD
 🟢 Online Status & Typing Indicators: See when users are online and typing a message.
 🎨 Modern UI/UX: A sleek and responsive interface for an engaging experience.
 📊 Message Persistence: Chat history is stored in MongoDB for easy access anytime.
+
+**OUTPUT OF THE TASK**
+![Image](https://github.com/user-attachments/assets/c98fcc26-9562-48ca-a230-718a7aa78e06)
+![Image](https://github.com/user-attachments/assets/5aa09c12-302c-49fa-bbc7-39978520fdd8)
+![Image](https://github.com/user-attachments/assets/2e54ea1f-cfd9-4106-bf92-4f496b22276c)
